@@ -41,3 +41,4 @@ git remote (Muestra los repositorios remotos configurados en el repositorio loca
 	git remote -v
 git rm (Elimina archivos o carpetas)
 	git rm -r [file-name.txt]
+asdfsdafsdfsdf
