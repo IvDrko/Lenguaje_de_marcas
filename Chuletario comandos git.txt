@@ -1,0 +1,43 @@
+Comandos:
+git config global user.name (configurar nombre)
+	git config --global user.name "Tu Nombre"
+git config global user.email (configurar correo)
+	git config --global user.email "tucorreo@example.com"
+Git init (inicializa)
+	git init
+Git add (Añade los cambios para el próximo commit)
+	git add archivo.txt o git add .
+git status (estado)
+	git status
+git commit (Crea un commit con los cambios preparados)
+	git commit -m "Mensaje descriptivo del commit"
+	git commit -am "[commit message]" (Añande los cambios y hace commit)
+git log (historial)
+	git log
+git checkout id_commit -- archivo (recuperar un archivo de un commit anterior)
+	git checkout abc123 -- archivo.txt
+git reset (deshacer cambios)
+	git reset --soft id_commit (staging área)
+	git reset id_commit (deshace commit y staging área pero mantiene los cambios en el directorio de trabajo)
+	git reset --hard id_commit (Elimina todo)
+git branch nombre_rama (crear rama)
+	git branch nueva_rama
+git checkout nombre_rama (cambiar de rama)
+	git checkout nueva_rama
+git merge (fusión)
+	git merge otra_rama
+git show 
+	git show-branch --all
+git diff (muestra diferencias entre archivos o commits)
+	git diff archivo1.txt archivo2.txt
+	git diff (para ramas)
+git clone (clona repositorio)
+	git clone url_del_repositorio
+git push (sube los cambios locales)
+	git push -u origin nombre_rama
+git pull (Descarga los cambios del repositorio remoto y los fusiona con la rama local actual)
+	git pull origin nombre_rama
+git remote (Muestra los repositorios remotos configurados en el repositorio local)
+	git remote -v
+git rm (Elimina archivos o carpetas)
+	git rm -r [file-name.txt]
