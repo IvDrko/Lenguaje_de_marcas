@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<librerias>
+    <ciudad nombre="Granada">
+        <libreria nombre="Babel" ubicacion="C/San Juan de Dios" web="https://www.babellibros.com/index.php">
+            <libros>
+                <titulo>LA ISLA DE LA MUJER DORMIDA</titulo>
+                <autor>PÉREZ-REVERTE ARTUOR</autor>
+                <precio units="eur">22,90</precio>
+                <estado>En stock</estado>
+                <editorial>Alfagura editorial</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Narrativa española e iberoamericana</genero>
+                <paginas>416</paginas>
+                <isbn>978-84-10299-63-4</isbn>
+            </libros>
+            <libros>
+                <titulo>EL NIÑO QUE PERDIO LA GUERRA</titulo>
+                <autor>NAVARRO JULIA</autor>
+                <precio units="eur">24,90</precio>
+                <estado>En stock</estado>
+                <editorial>Plaza Janes editores</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Novela histórica</genero>
+                <paginas>640</paginas>
+                <isbn>978-84-01-02797-0</isbn>
+            </libros>
+            <libros>
+                <titulo>EL CLAN</titulo>
+                <autor>MOLA CARMEN</autor>
+                <precio units="eur">21,90</precio>
+                <estado>En stock</estado>
+                <editorial>Planeta ediciones</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Novela negra y terror</genero>
+                <paginas>460</paginas>
+                <isbn>978-84-08-29126-8</isbn>
+            </libros>
+            <libros>
+                <titulo>LA SAGA DE LOS LONGEVOS 1 LA VIEJA</titulo>
+                <autor>GARCÍA SÁENZ DE URTURI EVA</autor>
+                <precio units="eur">22,90</precio>
+                <estado>En stock</estado>
+                <editorial>Planeta ediciones</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Narrativa española e iberoamericana</genero>
+                <paginas>480</paginas>
+                <isbn>978-84-08-29269-2</isbn>
+            </libros>
+        </libreria>
+        <libreria nombre="Picasso" ubicacion="C/Obispo Hurtado" web="https://www.librerias-picasso.com/">
+            <libros>
+                <titulo>DRAGON BALL LEGEND N 01</titulo>
+                <autor>TORIYAMA AKIRA</autor>
+                <precio units="eur">150</precio>
+                <estado>Proximamente</estado>
+                <editorial>Planeta-Agostini</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Manga</genero>
+                <paginas>2754</paginas>
+                <isbn>978-84-1161-588-4</isbn>
+            </libros>
+            <libros>
+                <titulo>ALAS DE ONIX EDICION ESPECIAL</titulo>
+                <autor>YARROS REBECCA</autor>
+                <precio units="eur">23,90</precio>
+                <estado>Proximamente</estado>
+                <editorial>Planeta, S.A</editorial>
+                <año_edicion>2025</año_edicion>
+                <genero>Narrativa fantastica/ciencia ficcion juvenil</genero>
+                <paginas>896</paginas>
+                <isbn>978-84-08-29731-4</isbn>
+            </libros>
+            <libros>
+                <titulo>SERPIENTE Y LAS ALAS DE LA NOCHE</titulo>
+                <autor>BROADBENT CARISSA</autor>
+                <precio units="eur">23,90</precio>
+                <estado>En stock</estado>
+                <editorial>Planeta, S.A</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Narrativa fantastica/ciencia ficcion juvenil</genero>
+                <paginas>576</paginas>
+                <isbn>978-84-08-29248-7</isbn>
+            </libros>
+        </libreria>
+        <libreria nombre="imagina" ubicacion="C/Ancha de Gracia" web="https://www.libreriaimagina.com/">
+            <libros>
+                <titulo>LA CONCIENCIA CONTADA POR UN SAPIENS A UN NEANDERTAL</titulo>
+                <autor>MILLÁS, JUAN JOSÉ / ARSUAGA, JUAN LUIS</autor>
+                <precio units="eur">19,90</precio>
+                <estado>En stock</estado>
+                <editorial>Alfaguara</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Ficción</genero>
+                <paginas>200</paginas>
+                <isbn>978-84-204-7122-8</isbn>
+            </libros>
+            <libros>
+                <titulo>UNA DE MONSTRUOS</titulo>
+                <autor>ROCIO BONILLA</autor>
+                <precio units="eur">17,50</precio>
+                <estado>Disponible en 4 dias</estado>
+                <editorial>Algar editorial</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Album ilustrado</genero>
+                <paginas>46</paginas>
+                <isbn>978-84-9142-704-9</isbn>
+            </libros>
+        </libreria>
+    </ciudad>
+    <ciudad nombre="Málaga">
+        <libreria nombre="luces" ubicacion="Alameda Principal,37" web="https://www.librerialuces.com/es/">
+            <libros>
+                <titulo>LOS VERSOS SUELTOS DEL EDÉN</titulo>
+                <autor>RIVAS, PALOMA</autor>
+                <precio units="eur">21,90</precio>
+                <estado>En stock</estado>
+                <editorial>PLAZA y JANÉS</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Intriga</genero>
+                <paginas>328</paginas>
+                <isbn>978-84-01-03515-9</isbn>
+            </libros>
+            <libros>
+                <titulo>LOS DÍAS EN LOS QUE MÁS TE QUISE</titulo>
+                <autor>NEFF, AMY</autor>
+                <precio units="eur">20</precio>
+                <estado>En stock</estado>
+                <editorial>PLATA</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Narrativa</genero>
+                <paginas>416</paginas>
+                <isbn>978-84-92919-72-7</isbn>
+            </libros>
+            <libros>
+                <titulo>YO NO SOY ESA QUE TÚ TE IMAGINAS</titulo>
+                <autor>FERNANDEZ, MIGUEL</autor>
+                <precio units="eur">22,90</precio>
+                <estado>En stock</estado>
+                <editorial>PLAZA Y JANÉS</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Historia</genero>
+                <paginas>336</paginas>
+                <isbn>978-84-01-03539-5</isbn>
+            </libros>
+        </libreria>
+        <libreria nombre="agapea" ubicacion="Av. del Dr. Manuel Domínguez, 6, Puerto de la Torre, 29010 Málaga" web="https://www.agapea.com/">
+            <libros>
+                <titulo>Cuando el cielo se vuelva amarillo</titulo>
+                <autor>FERNANDEZ, MIGUEL</autor>
+                <precio units="eur">22,90</precio>
+                <estado>En stock</estado>
+                <editorial>PLAZA Y JANÉS</editorial>
+                <año_edicion>2024</año_edicion>
+                <genero>Historia</genero>
+                <paginas>336</paginas>
+                <isbn>978-84-01-03539-5</isbn>
+            </libros>
+        </libreria>
+    </ciudad>
+</librerias>
