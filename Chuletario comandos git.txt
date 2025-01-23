@@ -35,10 +35,10 @@ git clone (clona repositorio)
 	git clone url_del_repositorio
 git push (sube los cambios locales)
 	git push -u origin nombre_rama
+	git push --set --offstream origin
 git pull (Descarga los cambios del repositorio remoto y los fusiona con la rama local actual)
 	git pull origin nombre_rama
 git remote (Muestra los repositorios remotos configurados en el repositorio local)
 	git remote -v
 git rm (Elimina archivos o carpetas)
 	git rm -r [file-name.txt]
-asdfsdafsdfsdf
