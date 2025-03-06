@@ -1,0 +1,27 @@
+"use strict"
+
+function calcular(){
+    let x = parseFloat(document.getElementById('num1').value);
+    let y = parseFloat(document.getElementById('num2').value);
+    let operacion = document.getElementById('operacion').value;
+    let resultado;
+
+    if(isNaN(x) || isNaN(y)){
+        resultado="Error: Introduce números válidos";
+        document.getElementById('resultado').style.color="black";
+    }else{
+        switch(operacion){
+            case '+':resultado = x+y; break;
+            case '-':resultado = x-y; break;
+            case '*':resultado = x*y; break;
+            case '/':resultado = y !== 0 ? x / y : "Error: Division por cero"; break;
+        }
+        if (isNaN(resultado)){
+            let color= resultado > 100 ? "blue" : resultado >= 0 ? "green" : "red";
+            document.getElementById('resultado').style.color = color;
+        } else{
+            document.getElementById('resultado').style.color = "black";
+        }
+    }
+    document.getElementById('resultado').textContent = resultado;
+}
