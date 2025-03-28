@@ -1,0 +1,53 @@
+{
+    "hotel":{
+        "ubicacion":"Avenida Principal 123",
+        "tipos":[
+            {
+                "id":1,
+                "tipo":"lujo",
+                "estado":"disponible",
+                "reservas":[
+                    {
+                        "id":1,
+                        "persona":"Juan Pérez",
+                        "estado":"confirmada",
+                        "fecha_entrada":"15 de julio de 2024",
+                        "fecha_salida":"20 de julio de 2024",
+                        "precio_euros":300
+                    },
+                    {
+                        "id":2,
+                        "persona":"María García",
+                        "estado":"pendiente de confirmar",
+                        "fecha_entrada":"10 de agosto de 2024",
+                        "fecha_salida":"15 de agosto de 2024",
+                        "precio_euros":250
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "tipo":"doble con balcón",
+                "estado":"no disponible",
+                "reservas":[
+                    {
+                        "id":3,
+                        "persona":"Pedro Martinez",
+                        "estado":"confirmada",
+                        "fecha_entrada":"5 de septiembre de 2024",
+                        "fecha_salida":"10 de septiembre de 2024",
+                        "precio_dolares":200
+                    },
+                    {
+                        "id":4,
+                        "persona":"Ana Gómez",
+                        "estado":"confirmada",
+                        "fecha_entrada":"1 de octubre de 2024",
+                        "fecha_salida":"5 de octubre de 2024",
+                        "precio_dolares":180
+                    }
+                ]
+            }
+        ]
+    }
+}
